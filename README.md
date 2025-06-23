@@ -1,6 +1,6 @@
 #  City Bus Management System
 
-A console-based C++ application for managing city bus operations including ticketing, route scheduling, driver assignments, and real-time bus tracking. This project demonstrates Object-Oriented Programming (OOP) principles and file handling using binary files, offering a robust platform for three types of users: **Admin**, **Passengers**, and **Drivers**.
+A console-based C++ application for managing city bus operations including ticketing, route scheduling and driver assignments. This project demonstrates Object-Oriented Programming (OOP) principles and file handling using binary files, offering a robust platform for three types of users: **Admin**, **Passengers**, and **Drivers**.
 
 ---
 
