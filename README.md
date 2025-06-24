@@ -66,7 +66,7 @@ city-bus-management-system/
 
 ---
 
-## 🛠️ Prerequisites
+##  Prerequisites
 
 - **Compiler**: Any C++ compiler supporting C++11 or above (e.g., `g++`, MSVC)  
 - **OS**: Windows (required for `windows.h` and `conio.h`)  
@@ -74,7 +74,7 @@ city-bus-management-system/
 
 ---
 
-## 🚀 Installation & Run
+##  Installation & Run
 
 1. **Clone the Repository**
 ```bash
