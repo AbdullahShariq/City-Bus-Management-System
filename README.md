@@ -78,11 +78,11 @@ city-bus-management-system/
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/city-bus-management-system.git
+git clone https://github.com/AbdullahShariq/City-Bus-Management-System.git
 ```
 2. **Navigate to Project Directory**
 ```bash
-cd city-bus-management-system
+cd City-Bus-Management-System
 ```
 3. **Compile the Program**
 ```bash
